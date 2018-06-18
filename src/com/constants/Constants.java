@@ -17,4 +17,5 @@ public class Constants {
 	public static final String jobsTitel="Talent @ Coviam – Coviam Technologies";
 	public static final String expectedResult="There are no listings matching your search.";
 	public static final String extraxpectedResult="There are no listings matching your search.";
+	public static final String extraxpectedResult123="There are no listings matching your search.";
 }
