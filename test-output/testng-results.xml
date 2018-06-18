@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[=====Browser Session Started=====]]>
+    </line>
+    <line>
+      <![CDATA[=====Application Started======================]]>
+    </line>
+    <line>
+      <![CDATA[--------Navigating over Tabs---------]]>
+    </line>
+    <line>
+      <![CDATA[-----Verifying Job Seach for Bangalore------]]>
+    </line>
+    <line>
+      <![CDATA[=====Browser Session End Successfully=====]]>
+    </line>
+  </reporter-output>
+  <suite name="Covaiam Assignment Test Suite" duration-ms="33300" started-at="2018-06-08T03:58:54Z" finished-at="2018-06-08T03:59:27Z">
+    <groups>
+    </groups>
+    <test name="Coviam Test" duration-ms="33300" started-at="2018-06-08T03:58:54Z" finished-at="2018-06-08T03:59:27Z">
+      <class name="com.testcase.Test_Case">
+        <test-method status="PASS" signature="applicationStart()[pri:0, instance:com.testcase.Test_Case@4bbfb90a]" name="applicationStart" is-config="true" duration-ms="17578" started-at="2018-06-08T03:58:54Z" finished-at="2018-06-08T03:59:11Z">
+          <reporter-output>
+            <line>
+              <![CDATA[=====Browser Session Started=====]]>
+            </line>
+            <line>
+              <![CDATA[=====Application Started======================]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- applicationStart -->
+        <test-method status="PASS" signature="Test_Meth()[pri:0, instance:com.testcase.Test_Case@4bbfb90a]" name="Test_Meth" duration-ms="14415" started-at="2018-06-08T03:59:12Z" finished-at="2018-06-08T03:59:26Z">
+          <reporter-output>
+            <line>
+              <![CDATA[--------Navigating over Tabs---------]]>
+            </line>
+            <line>
+              <![CDATA[-----Verifying Job Seach for Bangalore------]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Test_Meth -->
+        <test-method status="PASS" signature="writeResult(org.testng.ITestResult)[pri:0, instance:com.testcase.Test_Case@4bbfb90a]" name="writeResult" is-config="true" duration-ms="2" started-at="2018-06-08T03:59:26Z" finished-at="2018-06-08T03:59:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Test_Meth status=SUCCESS method=Test_Case.Test_Meth()[pri:0, instance:com.testcase.Test_Case@4bbfb90a] output=--------Navigating over Tabs---------]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- writeResult -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.testcase.Test_Case@4bbfb90a]" name="afterClass" is-config="true" duration-ms="1209" started-at="2018-06-08T03:59:26Z" finished-at="2018-06-08T03:59:27Z">
+          <reporter-output>
+            <line>
+              <![CDATA[=====Browser Session End Successfully=====]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="openReport()[pri:0, instance:com.testcase.Test_Case@4bbfb90a]" name="openReport" is-config="true" duration-ms="141" started-at="2018-06-08T03:59:27Z" finished-at="2018-06-08T03:59:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openReport -->
+      </class> <!-- com.testcase.Test_Case -->
+    </test> <!-- Coviam Test -->
+  </suite> <!-- Covaiam Assignment Test Suite -->
+</testng-results>

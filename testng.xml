@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Covaiam Assignment Test Suite">
+
+ <listeners>
+      <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+      <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+ </listeners>
+
+ <test name="Coviam Test">
+ <classes>
+      <class name="com.testcase.Test_Case" />              
+ </classes>
+
+ </test>
+ </suite>

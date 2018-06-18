@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Coviam Test"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="14.415">
+  <properties />
+  
+  
+            <testcase name="Test_Meth" time="14.415" classname="com.testcase.Test_Case" />
+      
+</testsuite>

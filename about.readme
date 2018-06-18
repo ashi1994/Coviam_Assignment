@@ -1,0 +1,18 @@
+Selenium Assignment
+Automate the Below functionalty
+- Open coviam.com
+- Must go over all links
+- In each link it must assert a particular value
+- On the Careers UI, it must lookup for location ‘Bangalore’
+
+
+Prerequisites
+JDK
+Eclipse
+TestNG: Download TestNG from Eclipse's Help menu.
+
+Run
+Import this project in Eclispse
+Run the testng.xml file as TestNg Suite
+Once the suite executed completly
+You will get a customize html report in browser.
